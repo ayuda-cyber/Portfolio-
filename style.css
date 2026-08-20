@@ -84,9 +84,10 @@ nav .right a span{
     justify-content: center;
     align-items: center;
     color: var(--text-color);
-    background-image: url('../Portfolio/4_gif\ \(500×280\).gif');
+    background-image: url('gif.gif');
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .welcome h1{
